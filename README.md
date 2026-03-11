@@ -15,7 +15,7 @@ I'm a DevOps engineer who tinkers with:
 - ⚙️ **CI/CD Pipelines** — GitHub Actions workflows, reusable pipeline patterns
 - 🤖 **Automation Scripts** — bash, Python, Go utilities that scratch my own itch
 - 🔧 **Developer Tooling** — local dev environments, dotfiles, productivity helpers
-- ☁️ **Cloud Experiments** — AWS, GCP, and Azure spikes and cost-saving ideas
+- ☁️ **Cloud Experiments** — AWS, GCP, and Azure... 
 
 ---
 
