@@ -1,0 +1,6 @@
+blank_issues_enabled: true
+
+contact_links:
+  - name: 💬 General question or discussion
+    url: https://github.com/turbo5000c/.github/discussions
+    about: Not sure if it's a bug? Ask here first.
