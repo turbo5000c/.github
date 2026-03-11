@@ -10,7 +10,7 @@ This repository holds the default community health files and profile content for
 
 I'm a DevOps engineer who tinkers with:
 
-- 🏗️ **Infrastructure as Code** — Terraform modules, Ansible playbooks, Pulumi stacks
+- 🏗️ **Infrastructure as Code** — Terraform modules, Ansible playbooks, FluxCD
 - 🐳 **Containers & Orchestration** — Docker, Kubernetes, Helm charts
 - ⚙️ **CI/CD Pipelines** — GitHub Actions workflows, reusable pipeline patterns
 - 🤖 **Automation Scripts** — bash, Python, Go utilities that scratch my own itch
